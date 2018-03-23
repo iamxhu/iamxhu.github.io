@@ -1,1 +1,46 @@
-theme: jekyll-theme-dinky
+# Basic
+title: Charlie Hu 
+subtitle: Tech,Carrer and lifystyle
+welcome_message: 
+description: 
+creator: <a href="http://iamxhu.github.io">@CharlieHu</a>
+
+url: "http://iamxhu.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+# The blog button should not be removed.
+blog_button:
+    title: Charlie's thoughts 
+    description: 关于技术，管理，个人成长和生活
+
+# Navigation buttons in the front page.
+nav:
+    #- {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment: 
+    disqus: charliehu
+    # duoshuo: 
+    
+# Social
+social:
+    github: iamxhu 
+    twitter: iamxhu
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlie Hu</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Mar 2018 14:22:26 +0800</pubDate>
+    <lastBuildDate>Fri, 23 Mar 2018 14:22:26 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>come back</title>
+        <description>&lt;p&gt;最近一两年经常会和朋友们聊天，期间产生了很多的思考，但是后续都没有记录，然后都忘记了。大家都觉得有必要将这些思想碰撞的碎片记录下来，决定重新开始写博客，将和朋友聊天冒出的想法，平时看书时的思考写下来。&lt;/p&gt;
+
+&lt;p&gt;花了一天时间终于在github上面将博客搭建起来了，接下来开始愉快的写吧。&lt;/p&gt;
+
+&lt;p&gt;Let’s go!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Mar 2018 10:10:23 +0800</pubDate>
+        <link>http://localhost:4000/2018/03/come-back/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/come-back/</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>Github</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
