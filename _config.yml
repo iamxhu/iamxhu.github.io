@@ -42,5 +42,5 @@ social:
 
 # Google Analytics
 ga:
-    # id: your_ga_id
-    # host: your_host
+    id: UA-116663626-1
+    host: iamxhu.github.io
